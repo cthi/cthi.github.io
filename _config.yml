@@ -1,0 +1,8 @@
+name: "Chris Thi"
+description: "My Website"
+
+url: "[http://localhost:4000]"
+
+
+markdown: rdiscount
+permalink: pretty
