@@ -8,6 +8,7 @@ body {
 ul {
   margin: 0;
   padding: 0;
+  list-style-type: none;
 }
 a {
   color: #000000;
@@ -20,14 +21,14 @@ a:hover {
 }
  
 #main {
-  width: 960px;
+  width: 1000px;
   margin: 0 auto;
   margin-bottom: 0px;
 }
 
 #content {
 
-  width: 960px;
+  width: 1000px;
   margin: 0 auto;
 }
 header {
@@ -39,10 +40,6 @@ h1 {
   margin: 0;
 }
  
-nav ul, ul.entries {
-  list-style-type: none;
-}
-
 nav li a {
   float: left;
   font: 22px/1 helvetica;
@@ -53,4 +50,9 @@ nav li a {
    p {
    margin-top:5px;
    margin-bottom:5px
+}
+
+images {
+  float: left;
+  height:;
 }

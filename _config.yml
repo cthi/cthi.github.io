@@ -3,6 +3,6 @@ description: "My Website"
 
 url: "[http://localhost:4000]"
 
-
+relative_permalinks:false
 markdown: rdiscount
 permalink: pretty
