@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Mobile Development in an Uncertain World</title>
+    <description>Chris Thi&#39;s Development Blog</description>
+    <link>http://your-blog-url.example.com</link>
+    <atom:link href="http://your-blog-url.example.com/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>My First Co-Op Term: What Is Working at a Fast Paced SaaS Company Like</title>
+        
+        
+          <description>&lt;p&gt;Finding the first co-op job as a software developer is a unique and difficult journey. Many students are not exposed to developing software prior to the workforce, and are unsure of what to look for and expect from a co-op placement. I was fortunate enough to work at PostBeyond, a SaaS startup developing an employee advocacy platform, located in the heart of downtown Toronto. What is working at PostBeyond like?&lt;/p&gt;
+</description>
+        
+        <pubDate>Thu, 23 Jul 2015 06:00:00 -0400</pubDate>
+        <link>http://your-blog-url.example.com/2015/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://your-blog-url.example.com/2015/welcome-to-jekyll/</guid>
+      </item>
+    
+  </channel>
+</rss>

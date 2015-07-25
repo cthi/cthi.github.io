@@ -1,8 +1,33 @@
-name: "Chris Thi"
-description: "My Website"
+name: Mobile Development in an Uncertain World
+description: Chris Thi's Development Blog
+meta_description: "Mobile Development in an Uncertain world. Chris Thi's development blog."
 
-url: "[http://localhost:4000]"
+aboutPage: true
 
-relative_permalinks: false
-markdown: rdiscount
-permalink: pretty
+markdown: redcarpet
+highlighter: pygments
+
+paginate: 20
+baseurl: /
+domain_name: 'http://cthi.github.io'
+
+
+# Details for the RSS feed generator
+url:            'http://your-blog-url.example.com'
+author:         'Chris Thi'
+
+permalink:       /:year/:title/
+
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
