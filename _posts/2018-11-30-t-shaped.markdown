@@ -1,0 +1,13 @@
+---
+title:  "How to have an impact on your intern even after they leave."
+date:   2018-11-30 10:00:00
+description: T shirt dev
+---
+
+Around three and a half years ago I started my first job as a mobile developer intern at a Toronto startup. All I really knew back then was Android development, and to no surprise that was what I worked on. In my senior year of high school I started building android applications and did it the whole summer before university as well as for most of my first year.
+
+The first internship is always nerve racking, you have very little expectation of what it’s like to do things in the industry, so everything's an unknown to you. Wanting to do a good job and to further my android knowledge I would spend my excess time on /r/androiddev, examining whatever the hot new Android architecture pattern of the month was. At the same time I was becoming more and more comfortable doing Android development, and at one point I prematurely decided I should do my next internships doing more… Android development.
+
+One of the many (and most memorable) stupid questions I asked my co-worker and mentor Yury was why we were using both Redis and MongoDB. They both store things, no? He kindly took the time to explain how they were different, and their respective use cases. Yury’s title was jokingly “pancake maker”, which I later learned was a joke referring to full stack software development.
+
+Today I consider myself a polyglot programmer as well as a systems generalist. Looking back, the small things that a mentor does can have a huge impact down the line on their mentee. Thanks Yury!
